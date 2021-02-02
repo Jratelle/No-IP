@@ -1,0 +1,4 @@
+Here is how I understand dynamin DNS services. 
+like a VPN you use a connection to a server at first through your ISP but then instead of you using the new public ip address that the VPN gives you you will 
+have a public facing DNS outside of your network that you are in that people can go to. People will connect to the DNS server that you register with and then 
+that server will find your DNS location that the person is trying to get to and then then will be redirected to your server. 
