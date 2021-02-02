@@ -1,0 +1,5 @@
+Alright here is how I understand VPNS
+
+When a user wants to use their VPN service they use their ISP to login to the VPN server with the ISP's Public Ip address. When the person is logged into the VPN server 
+they are then given a new IP address by the VPN and that IP address is dependant on where the server is that they logged into.
+(I.E. if you want to pretend you are in Thailand then you log into the VPN server in Thailand.)
